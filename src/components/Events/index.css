@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+}
+
+.events-container {
+  display: flex;
+}
+
+.events-list-container {
+  width: 65%;
+  background-color: #64748b;
+  padding: 15px;
+}
+
+.unordered-list-container {
+  display: flex;
+  flex-wrap: wrap;
+}
